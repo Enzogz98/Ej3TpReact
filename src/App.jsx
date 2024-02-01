@@ -1,17 +1,12 @@
-
+import Hello from './Components/Hello'
 import './App.css'
 
-function App(name) {
+function App() {
+  const name= "My friend"
 
   return (
     <>
-      <div className="App">
-      <header className="App-header">
-        <p>
-          Hello, {name}
-        </p>
-      </header>
-    </div>
+      <Hello name={name}/>
     </>
   )
 }

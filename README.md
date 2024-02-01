@@ -1,6 +1,6 @@
-# Hello World App
+# Hello My friend App
 
-Esta es una aplicación web simple creada con Vite y React que muestra un mensaje personalizado.
+Esta es una aplicación web simple creada con Vite y React que muestra un mensaje personalizado enviado por props.
 
 ## Instrucciones de Uso
 
